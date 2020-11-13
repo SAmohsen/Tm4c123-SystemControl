@@ -1,0 +1,7 @@
+#include "SysCtrl.h"
+
+
+
+
+
+SysCtrl_configType sysCtrl_Config ={CLOCK_SOURCE_MAIN_OSCILLATOR,XTAL_16MHZ,PLL_OPERATING_NORMALLY,PLL_400MHZ,80000000UL};
